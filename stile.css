@@ -1,0 +1,10 @@
+main{
+    width: 100%;
+    min-height: 100vh;
+    background-color: burlywood;
+}
+.container_class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
